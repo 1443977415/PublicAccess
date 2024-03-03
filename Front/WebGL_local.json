@@ -1,6 +1,6 @@
 {
 	"focusVersion": "0.0.0",
-	"cdn": "http://192.168.31.152:5000/",
-	"defaultHostServer": "http://192.168.31.152:5000/WebGL",
-	"fallbackHostServer": "http://192.168.31.152:5000/WebGL"
+	"cdn": "http://192.168.31.187:5000/",
+	"defaultHostServer": "http://192.168.31.187:5000/WebGL",
+	"fallbackHostServer": "http://192.168.31.187:5000/WebGL"
 }
