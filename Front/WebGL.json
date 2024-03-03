@@ -1,1 +1,6 @@
-{"focusVersion":"0.0.0","cdn":"https://gitee.com/xihoffy/PublicAccess/raw/master","defaultHostServer":"https://gitee.com/xihoffy/PublicAccess/raw/master/WebGL","fallbackHostServer":"https://gitee.com/xihoffy/PublicAccess/raw/master/WebGL"}
+{
+	"focusVersion": "0.0.0",
+	"cdn": "http://192.168.31.152:5000/",
+	"defaultHostServer": "http://192.168.31.152:5000/WebGL",
+	"fallbackHostServer": "http://192.168.31.152:5000/WebGL"
+}
